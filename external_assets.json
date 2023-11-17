@@ -21,5 +21,21 @@
 	"fileUrl" : "s3://foo.bucket/bar.csv",
 	"filename" : "noname.csv",
 	"fileFormat" : "CSV"
-  }
+  },
+  {
+      "assetId": "7309fb77-6fd7-4c09-a0dd-a4507302db0b",
+      "name": "test sql asset",
+      "assetType": "SQL",
+      "assetRole": "UNKNOWN",
+      "metaData": {
+        "custom": {},
+        "tags": []
+      },
+      "repositoryInfo": {
+        "connectionUri": "h2://something/db",
+        "repositoryType": "SQL_REPOSITORY"
+      },
+      "sqlStatement": "select * from table",
+      "parameters": {}
+    }
 ]
