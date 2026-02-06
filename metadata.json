@@ -7,6 +7,7 @@
     		"costMultipliersTN": 2,
     		"costMultipliersFN": -1.5
 	},
+	"tags": ["new"],
 	"custom": {
         	"modelopPackageVersion": "0.13.2",
 		"someOtherKey": "value"
