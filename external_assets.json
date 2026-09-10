@@ -37,8 +37,8 @@
       },
       "sqlStatement": "select * from table",
       "parameters": {}
-    },
-	{
+  },
+  {
 	"name" : "foo.py",
 	"assetType" : "EXTERNAL_FILE",
 	"assetRole" : "UNKNOWN",
