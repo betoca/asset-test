@@ -44,6 +44,6 @@
 	"assetRole" : "UNKNOWN",
 	"fileUrl" : "s3://foo.bucket/foo.py",
 	"filename" : "foo.py",
-	"fileFormat" : "UNNKNOWN"
+	"fileFormat" : "UNKNOWN"
   }
 ]
