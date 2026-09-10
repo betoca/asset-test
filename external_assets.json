@@ -37,5 +37,13 @@
       },
       "sqlStatement": "select * from table",
       "parameters": {}
-    }
+    },
+	{
+	"name" : "foo.py",
+	"assetType" : "EXTERNAL_FILE",
+	"assetRole" : "UNKNOWN",
+	"fileUrl" : "s3://foo.bucket/foo.py",
+	"filename" : "foo.py",
+	"fileFormat" : "UNNKNOWN"
+  }
 ]
